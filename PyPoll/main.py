@@ -65,6 +65,15 @@ with open(file_to_output, "w") as txt_file:
 
 
     # Generate and print the winning candidate summary
-
+    # Election Results
+    # -------------------------
+    # Total Votes: 369711
+    # -------------------------
+    # Charles Casper Stockham: 23.049% (85213)
+    # Diana DeGette: 73.812% (272892)
+    # Raymon Anthony Doane: 3.139% (11606)
+    # -------------------------
+    # Winner: Diana DeGette
+    # -------------------------
 
     # Save the winning candidate summary to the text file
